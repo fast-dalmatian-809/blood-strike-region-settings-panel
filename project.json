@@ -1,0 +1,22 @@
+{
+  "name": "blood-strike-region-settings-panel",
+  "displayName": "Blood Strike Region Settings Panel",
+  "programType": "region-settings-panel",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Connection notes",
+    "Region fields",
+    "Configuration records"
+  ],
+  "topics": [
+    "blood-strike-region-settings-panel",
+    "blood-strike-tools",
+    "blood-strike-menu",
+    "blood-strike-settings",
+    "blood-strike-configs",
+    "blood-strike-connection-notes",
+    "blood-strike-region-fields"
+  ]
+}
